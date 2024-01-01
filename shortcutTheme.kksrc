@@ -1,0 +1,49 @@
+[com.vscodium.codium.desktop][Global Shortcuts]
+_launch=Meta+C
+new-empty-window=
+
+[firefox.desktop][Global Shortcuts]
+_launch=Meta+I
+new-private-window=
+new-window=
+profile-manager-window=
+
+[io.github.shiftey.Desktop.desktop][Global Shortcuts]
+_launch=Meta+G
+
+[kcm_touchpad][Global Shortcuts]
+Disable Touchpad=Touchpad Off
+Enable Touchpad=Touchpad On
+Toggle Touchpad=Touchpad Toggle; Meta+Ctrl+Zenkaku Hankaku
+
+[org.kde.dolphin.desktop][Global Shortcuts]
+_launch=Meta+E
+
+[org.kde.konsole.desktop][Global Shortcuts]
+NewTab=
+NewWindow=
+_launch=Meta+T; Ctrl+Alt+T
+
+[org.kde.plasma-systemmonitor.desktop][Global Shortcuts]
+_launch=Meta+N
+
+[org.keepassxc.KeePassXC.desktop][Global Shortcuts]
+_launch=Meta+K
+
+[org.libreoffice.LibreOffice.desktop][Global Shortcuts]
+Base=
+Calc=
+Draw=
+Impress=
+Math=
+Writer=
+_launch=Meta+O
+
+[org.manjaro.pamac.manager.desktop][Global Shortcuts]
+_launch=Meta+A
+updates=
+
+[org.mozilla.Thunderbird.desktop][Global Shortcuts]
+ComposeMessage=
+OpenAddressBook=
+_launch=Meta+M
